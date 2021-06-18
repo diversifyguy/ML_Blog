@@ -1,1 +1,1 @@
-Sitemap: https://jjhoffstein.com/ML_Blog/sitemap.xml
+Sitemap: https://diversifyguy.github.io/ML_Blog/sitemap.xml
