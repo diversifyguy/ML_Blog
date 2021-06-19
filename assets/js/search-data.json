@@ -1,11 +1,22 @@
 {
   
+    
+        "post0": {
+            "title": "Title",
+            "content": "&gt; &quot;My first blog post&quot; - toc: true - branch: master - badges: true - comments: true - author: JJ Hoffstein - categories: [] . Hi - this is my first blog post. I&#39;ve gotten interested in data science, machine learning, and artificial intelligence, and now here I am blogging about it. My hope is that blogging will help clarify my thoughts, sharpen my ideas, and elicit feedback from others. . To that end, my goal is to remain faithful to Professor James Miller&#39;s three pieces of writing advice: be clear, be concise, be interesting -- in that order of importance. . twitter: https://twitter.com/JimDMiller/status/1376642170694860805?s=20 .",
+            "url": "https://www.jjhoffstein.com/2021/06/19/Blastoff.html",
+            "relUrl": "/2021/06/19/Blastoff.html",
+            "date": " • Jun 19, 2021"
+        }
+        
+    
+  
 
   
   
 
   
-      "page1": {
+      ,"page1": {
           "title": "About Me",
           "content": "This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
           "url": "https://www.jjhoffstein.com/about/",
