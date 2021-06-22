@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "My First ML Application",
-            "content": ". My First ML Application . I created my first application! It asks users to upload a picture of Michael Jordan, LeBron James, or Kobe Bryant, and tells you who you uploaded. Here is the link: https://hub.gke2.mybinder.org/user/diversifyguy-goat_app-qs97o4hu/voila/render/bball_player_classifier.ipynb?token=8eZr2--fSIq1jdYEsr9R-A . Unfortunately, it doesn&#39;t really work, and I&#39;m not sure why! My suspicion is that it&#39;s due to overfitting, which is something I&#39;ll learn about more later. . For now, I&#39;ll call this good enough and move on. Onward! .",
+            "content": ". My First ML Application . I created my first application! It asks users to upload a picture of Michael Jordan, LeBron James, or Kobe Bryant, and tells you who you uploaded. Here is the link: https://mybinder.org/v2/gh/diversifyguy/goat_app/HEAD?urlpath=%2Fvoila%2Frender%2Fbball_player_classifier.ipynb . Unfortunately, it doesn&#39;t really work, and I&#39;m not sure why! My suspicion is that it&#39;s due to overfitting, which is something I&#39;ll learn about more later. . For now, I&#39;ll call this good enough and move on. Onward! .",
             "url": "https://www.jjhoffstein.com/2021/06/23/My-First-ML-Application.html",
             "relUrl": "/2021/06/23/My-First-ML-Application.html",
             "date": " • Jun 23, 2021"
