@@ -2,6 +2,17 @@
   
     
         "post0": {
+            "title": "Lesson 0",
+            "content": ". Lesson 0 . At ~14k views, this is a very under-watched video from Jeremy Howard. Wanted to share it and pass along my biggest takeaways. . . 1) Don&#39;t Quit . &quot;Tenacity&quot; is the key attribute of those who end up succeeding. Enjoying the small successes along the way and embracing the grind of working through problems is the essence of learning. This is reminiscent of Simon Sinek&#39;s insight here: The Navy SEALs aren&#39;t made up of the strongest, toughest, or smartest candidates. They all possess something much deeper. pic.twitter.com/AVwvBo4UrV . &mdash; Simon Sinek (@simonsinek) December 17, 2020 . 2) Learn by Doing . The best way to learn is to jump in and train as many models as possible. Enter Kaggle competitions; test out hypotheses; do your own data tinkering. You can&#39;t learn to ski by reading a book; you just have to hit the slopes and learn from your errors. . 3) Build Your Portfolio Along the Way . When you &quot;learn by doing,&quot; think of yourself as building a portfolio of projects that will serve as a type of resume for future job interviews. This helps clarify your intentions and raises the stakes for the work you do along the way. . 4) Build Models Incrementally . In the Spaghetti Tower Marshmellow Challenge, successful teams tend not to wait until the end to test their model; instead, they test and tinker and test and tinker. This is also the best approach with ML models. . 5) Compare Against a Baseline . You can fool yourself into thinking that some ML model you built is really smart when really it&#39;s no better than a simple baseline model. Always establish a baseline first so that you know what you&#39;re up against. . 6) Utilize the Community . There is a great AI community both on forums.fast.ai and on Twitter. I&#39;m excited to dive in and see what I can learn! .",
+            "url": "https://www.jjhoffstein.com/tips/2021/06/26/Lesson-0.html",
+            "relUrl": "/tips/2021/06/26/Lesson-0.html",
+            "date": " • Jun 26, 2021"
+        }
+        
+    
+  
+    
+        ,"post1": {
             "title": "My First ML Application",
             "content": ". My First ML Application . I created my first application! It asks users to upload a picture of Michael Jordan, LeBron James, or Kobe Bryant, and tells you who you uploaded. Here is the link: https://mybinder.org/v2/gh/diversifyguy/goat_app/HEAD?urlpath=%2Fvoila%2Frender%2Fbball_player_classifier.ipynb . Unfortunately, it doesn&#39;t really work, and I&#39;m not sure why! My suspicion is that it&#39;s due to overfitting, which is something I&#39;ll learn about more later. . For now, I&#39;ll call this good enough and move on. Onward! .",
             "url": "https://www.jjhoffstein.com/2021/06/23/My-First-ML-Application.html",
@@ -12,7 +23,7 @@
     
   
     
-        ,"post1": {
+        ,"post2": {
             "title": "Beginning",
             "content": ". Beginning . This is my first blog post. I&#39;ve become interested in data science, machine learning, and artificial intelligence, and now here I am blogging about it. My hope is that blogging will help clarify my thoughts, sharpen my ideas, and elicit feedback from others. Thank you for your participation in this process! . As a blogger, my goal is to heed Professor James Miller&#39;s three pieces of writing advice: be clear, be concise, and be interesting -- in that order of importance. . Mine: Be clear, be concise, be interesting -- in that order of importance. . &mdash; James Miller (@JimDMiller) March 29, 2021 . Please wish me luck on this journey, and feel free to DM me anytime on Twitter @jjhoffstein. Thank you!! . What Classes Am I Taking? . My plan is two take two classes: Stanford&#39;s CSS 229, taught by Andrew Ng; and fast.ai&#39;s Practical Deep Learning for Coders, taught by Jeremy Howard. The former is more of a theory course, the latter is more of a practical course. . If you&#39;re interested in learning more about Andrew Ng and his mission, I recommend this video: . . If you&#39;re interested in Jeremy Howard and his mission, I recommend this video: . . Without Further Ado . Let&#39;s get started! .",
             "url": "https://www.jjhoffstein.com/2021/06/22/Beginning.html",
