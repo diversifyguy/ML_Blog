@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 images: /images/JJ_prof_pic.JPG
 ---
-
+![](/images/JJ_prof_pic.JPG)
 # Bio
 **2020+:** Joined Vassar Women's Basketball as full-time assistant coach./n
 **2018 - 2020:** Earned Master's Degree in Exercise and Sports Studies from Smith College. Was a graduate-assistant coach for Smith Women's Basketball; made it to the NCAA Tournament 2nd Round my first year and to the Sweet 16 my second year before tournament was cut short due to COVID-19./n
@@ -14,6 +14,6 @@ images: /images/JJ_prof_pic.JPG
 # Misc
 I love using YouTube as a learning tool and believe it is the biggest human revolution since the Gutenberg printing press./n
 I similarly love using Twitter as a learning tool. I try and avoid politics & pop culture and just focus on content that will level-up my knowledge and skills./n
-I've collated my basketball coaching portfolio and published it at (jjhoffstein.github.io)[https://jjhoffstein.github.io]/n
+I've collated my basketball coaching portfolio and published it at [jjhoffstein.github.io](https://jjhoffstein.github.io)/n
 I have a photic sneeze reflex, which means that I sneeze basically every time I walk outside and look at the sun./n
 
