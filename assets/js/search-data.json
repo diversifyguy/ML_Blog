@@ -2,6 +2,17 @@
   
     
         "post0": {
+            "title": "NBA Interview Analysis",
+            "content": ". NBA Interviews . Well rehearsed and comically repetitive, interviews with professional athletes lead to more eye rolling than genuine interest among even the most devoted fans. However, if studied with the right approach on a sufficiently large dataset, we may be able to extract some interesting insights from these contractually obligated rituals. . We’ll use Beautiful Soup and HTML tagging to gather and organize data, open source (and one designed by yours truly) text classification methods, and matplotlib to showcase the results. . We gather data from ASAP Sports, a website that provides athlete interview transcripts to journalists. We use practice day interviews with players and coaches during the Stanley Cup Finals, starting with the year 1997 and ending with 2019. Mathieu Bray’s comparison¹ of coaches Mike Sullivan and Peter DeBoer inspired much of this blog post, most notably the use of ASAP Sports. . Web Scraping . My plan is two take two classes: Stanford&#39;s CSS 229, taught by Andrew Ng; and fast.ai&#39;s Practical Deep Learning for Coders, taught by Jeremy Howard. The former is more of a theory course, the latter is more of a practical course. . If you&#39;re interested in learning more about Andrew Ng and his mission, I recommend this video: . . If you&#39;re interested in Jeremy Howard and his mission, I recommend this video: . . Without Further Ado . Let&#39;s get started! .",
+            "url": "https://www.jjhoffstein.com/nba/nlp/2021/07/05/NBA-Interview-Analysis.html",
+            "relUrl": "/nba/nlp/2021/07/05/NBA-Interview-Analysis.html",
+            "date": " • Jul 5, 2021"
+        }
+        
+    
+  
+    
+        ,"post1": {
             "title": "My First ML Application",
             "content": ". My First ML Application . I created my first application! It asks users to upload a picture of Michael Jordan, LeBron James, or Kobe Bryant, and tells you who you uploaded. Here is the link: https://mybinder.org/v2/gh/diversifyguy/goat_app/HEAD?urlpath=%2Fvoila%2Frender%2Fbball_player_classifier.ipynb . Unfortunately, it doesn&#39;t really work, and I&#39;m not sure why! My suspicion is that it&#39;s due to overfitting, which is something I&#39;ll learn about more later. . For now, I&#39;ll call this good enough and move on. Onward! .",
             "url": "https://www.jjhoffstein.com/2021/06/23/My-First-ML-Application.html",
@@ -12,7 +23,7 @@
     
   
     
-        ,"post1": {
+        ,"post2": {
             "title": "Beginning",
             "content": ". Beginning . This is my first blog post. I&#39;ve become interested in data science, machine learning, and artificial intelligence, and now here I am blogging about it. My hope is that blogging will help clarify my thoughts, sharpen my ideas, and elicit feedback from others. Thank you for your participation in this process! . As a blogger, my goal is to heed Professor James Miller&#39;s three pieces of writing advice: be clear, be concise, and be interesting -- in that order of importance. . Mine: Be clear, be concise, be interesting -- in that order of importance. . &mdash; James Miller (@JimDMiller) March 29, 2021 . Please wish me luck on this journey, and feel free to DM me anytime on Twitter @jjhoffstein. Thank you!! . What Classes Am I Taking? . My plan is two take two classes: Stanford&#39;s CSS 229, taught by Andrew Ng; and fast.ai&#39;s Practical Deep Learning for Coders, taught by Jeremy Howard. The former is more of a theory course, the latter is more of a practical course. . If you&#39;re interested in learning more about Andrew Ng and his mission, I recommend this video: . . If you&#39;re interested in Jeremy Howard and his mission, I recommend this video: . . Without Further Ado . Let&#39;s get started! .",
             "url": "https://www.jjhoffstein.com/2021/06/22/Beginning.html",
@@ -29,7 +40,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "[To be updated] .",
+          "content": "Bio . 2020+: Joined Vassar Women’s Basketball as full-time assistant coach. 2018 - 2020: Earned Master’s Degree in Exercise and Sports Studies from Smith College. Was a graduate-assistant coach for Smith Women’s Basketball; made it to the NCAA Tournament 2nd Round my first year and to the Sweet 16 my second year before tournament was cut short due to COVID-19. 2014 - 2018: Worked as a finance associate at Goldman Sachs in New York City. Focused on liquidity risk management and asset-liability management in Corporate Treasury Department. 2010 - 2014: Earned Bachelor of Arts in Economics from Amherst College. Was a student-assistant coach for Amherst Women’s Basketball; made it to the NCAA Tournament Sweet 16. Studied financial crises at London School of Economics’ summer program. . Misc . I love using YouTube as a learning tool and believe it is the biggest human revolution since the Gutenberg printing press. I similarly love using Twitter as a learning tool. I try and avoid politics &amp; pop culture and just focus on content that will level-up my knowledge and skills. I’ve collated my basketball coaching portfolio and published it at (jjhoffstein.github.io)[https://jjhoffstein.github.io] I have a photic sneeze reflex, which means that I sneeze basically every time I walk outside and look at the sun. .",
           "url": "https://www.jjhoffstein.com/about/",
           "relUrl": "/about/",
           "date": ""
